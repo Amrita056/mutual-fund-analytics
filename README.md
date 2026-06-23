@@ -1,0 +1,13 @@
+# Mutual Fund Analytics
+
+Capstone Project for Mutual Fund Analytics
+
+## Day 1 Completed
+- Project setup
+- Python environment setup
+- Dependency installation
+- GitHub integration
+- NAV data ingestion
+- Data quality summary
+
+Author: Amrita Pathak
