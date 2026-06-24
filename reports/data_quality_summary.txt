@@ -1,13 +1,17 @@
-# Mutual Fund Analytics
+Day 1 Data Quality Summary
 
-Capstone Project for Mutual Fund Analytics
+Project structure created.
+Python environment configured.
+Dependencies installed.
+GitHub repository initialized.
+NAV API integration completed.
 
-## Day 1 Completed
-- Project setup
-- Python environment setup
-- Dependency installation
-- GitHub integration
-- NAV data ingestion
-- Data quality summary
+Generated datasets:
+- HDFC Top 100 Direct
+- SBI Bluechip
+- ICICI Bluechip
+- Nippon Large Cap
+- Axis Bluechip
+- Kotak Bluechip
 
-Author: Amrita Pathak
+No major anomalies observed.
