@@ -1,0 +1,61 @@
+EDA Finding 1
+
+The daily NAV trend shows a strong upward movement during 2023, followed by a market correction in 2024 before stabilizing.
+
+------------------------------------------------------------
+
+EDA Finding 2
+
+SBI Mutual Fund has the highest Assets Under Management (AUM) among all fund houses throughout the observed period.
+
+Most fund houses show steady growth in AUM between 2022 and 2025, indicating increasing investor participation.
+
+ICICI Prudential MF and HDFC Mutual Fund also demonstrate significant growth, but SBI Mutual Fund consistently remains the market leader.
+
+------------------------------------------------------------
+
+EDA Finding 3
+
+Monthly SIP inflows increased consistently over time and reached their highest level in December 2025.
+
+------------------------------------------------------------
+
+EDA Finding 4
+
+The Equity category recorded the highest net inflows compared to other mutual fund categories.
+
+------------------------------------------------------------
+
+EDA Finding 5
+
+The 26–35 age group represents the largest share of investors, making it the dominant investor segment.
+
+------------------------------------------------------------
+
+EDA Finding 6
+
+Male investors account for approximately two-thirds of all investors, while female investors contribute about one-third.
+
+------------------------------------------------------------
+
+EDA Finding 7
+
+Investments from T30 cities are significantly higher than those from B30 cities.
+
+------------------------------------------------------------
+
+EDA Finding 8
+
+Banking is the largest sector allocation in the portfolio, followed by IT and Pharma.
+
+------------------------------------------------------------
+
+EDA Finding 9
+
+The correlation heatmap shows that daily returns among the selected mutual funds have generally weak correlations, indicating diversified performance.
+
+------------------------------------------------------------
+
+EDA Finding 10
+
+The portfolio is well diversified across multiple sectors, though Banking, IT, and Pharma together account for a major share of investments.
